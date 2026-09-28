@@ -1,7 +1,7 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 
-# Search/account/dynamic demo pages are intentionally excluded from indexing.
+# Search/account/dynamic demo pages are intentionally excluded from crawling.
 Disallow: /search.html
 Disallow: /login.html
 Disallow: /join.html
